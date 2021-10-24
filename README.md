@@ -1,4 +1,4 @@
-# ContadorConBotones
+# ContadorConBotones. Test it here: https://afcoral124.github.io/ContadorConBotones/
 Proyecto sencillo para practicar JavaScript, con diseños agradables y animación de botones y página con css, se programó un contador que incrementa y decrementa su valor, y según eso, las características de la página cambian.
 
 ![uso](https://user-images.githubusercontent.com/80283644/138578950-d45492bb-8d0a-4fc0-80ba-e8ad4364741e.gif)
